@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Education"
+        android:icon="@drawable/icon_aducation"
+        android:id="@+id/education"
+        android:checkable="true"
+        />
+    <item android:title="Note Book"
+        android:id="@+id/noteBookItem"
+        android:icon="@drawable/icon_note"
+        android:checkable="true"
+        />
+    <item android:title="News"
+        android:id="@+id/newsItem"
+        android:checkable="true"
+        android:icon="@drawable/icon_book"
+        />
+    <item android:title="Win"
+        android:id="@+id/winItem"
+        android:checkable="true"
+        android:icon="@drawable/win_icon"
+        />
+</menu>

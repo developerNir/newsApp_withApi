@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145003527164",
+    "project_id": "fir-test-7ea9e",
+    "storage_bucket": "fir-test-7ea9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145003527164:android:2f11bff815ade65bb11079",
+        "android_client_info": {
+          "package_name": "com.example.newsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8Zaam8Pjy_d5aoNCtUwS1-6gyL412as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
